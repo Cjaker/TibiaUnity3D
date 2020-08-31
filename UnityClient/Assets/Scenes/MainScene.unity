@@ -4772,7 +4772,7 @@ PrefabInstance:
     - target: {fileID: 1970024145670434700, guid: 40dee3dca139fc94595d30807d888dc3,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.00005340576
+      value: -0.0000076293945
       objectReference: {fileID: 0}
     - target: {fileID: 1970024145670434700, guid: 40dee3dca139fc94595d30807d888dc3,
         type: 3}
@@ -14924,7 +14924,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: 1
     m_CustomResolution: -1
     m_Strength: 1
@@ -19882,7 +19882,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1036597867}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 75febd242c999f04d9654522a10c006b, type: 3}
   m_Name: 
