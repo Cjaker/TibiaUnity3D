@@ -1,9 +1,19 @@
 fileFormatVersion: 2
 guid: f448c5fe659c2b944bbee189cacb59f8
 SketchUpImporter:
-  serializedVersion: 19300
+  serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _4
+    second: {fileID: 2100000, guid: 047dcab2908a570459a21ec28efe1123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _5
+    second: {fileID: 2100000, guid: f38c63560d9733f4fa7fe869c0361661, type: 2}
   materials:
     materialImportMode: 1
     materialName: 2
@@ -43,6 +53,7 @@ SketchUpImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -80,7 +91,7 @@ SketchUpImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.0254
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
@@ -94,10 +105,10 @@ SketchUpImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  generateBackFace: 1
+  generateBackFace: 0
   mergeCoplanarFaces: 0
-  selectedNodes: 00000000010000000200000003000000
+  selectedNodes: 0000000001000000
   assetHash:
     serializedVersion: 2
-    Hash: 55744f0e7d234e4408e92ce8e63f92c1
+    Hash: db3b3220f7e62695ceca2a350a06b085
   fileUnit: 0

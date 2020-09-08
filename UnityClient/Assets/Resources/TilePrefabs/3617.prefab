@@ -1,5 +1,15 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!193 &1407031824511810463
+Tree:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2434686324692243500}
+  m_SpeedTreeWindAsset: {fileID: 22800000, guid: 1e84b98fc4c200c4aa16e1ec38895673,
+    type: 3}
+  m_TreeData: {fileID: 0}
 --- !u!1001 &2434686324915849626
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -77,3 +87,9 @@ PrefabInstance:
       objectReference: {fileID: 4300002, guid: 1e84b98fc4c200c4aa16e1ec38895673, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82a4157c000494b41843c2a015e0fc91, type: 3}
+--- !u!1 &2434686324692243500 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 852762038, guid: 82a4157c000494b41843c2a015e0fc91,
+    type: 3}
+  m_PrefabInstance: {fileID: 2434686324915849626}
+  m_PrefabAsset: {fileID: 0}
